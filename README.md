@@ -5,3 +5,6 @@
 # 설치해야되는 파이썬 라이브러리
   1. requests
   2. BeautifulSoup4
+* * *
+# BlOG
+  <https://mrxx.tistory.com/>
