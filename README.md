@@ -9,5 +9,3 @@
 # BlOG
   <https://mrxx.tistory.com/>
 * * *
-# TEAM
-  TEAM $IL
