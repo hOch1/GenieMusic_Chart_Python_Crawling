@@ -9,5 +9,6 @@ soup = BeautifulSoup(resp.text, 'html.parser')
 songs = soup.select('#body-content > div.newest-list > div > table > tbody > tr') 
 
 for song in songs: 
-	title = song.find('td',{'class':'info'}).find('a',{'class':'title ellipsis'}).text 		print(title.strip())
+	title = song.find('td',{'class':'info'}).find('a',{'class':'title ellipsis'}).text 
+	print(title.strip())
 
